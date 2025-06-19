@@ -1,6 +1,6 @@
 # PHP PDO CRUD Project
 
-**Name**: Karl Veneracion  
+**Name**: Kurt Benedict Veneracion 
 **Program**: BS Information Technology  
 **Course Code**: IT 101
 
